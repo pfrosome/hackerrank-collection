@@ -14,4 +14,4 @@ Clone the repository and navigate to the respective folder for each problem. Eac
 
 ## Future Plans
 - Add more problems and solutions as I solve them.
-- Include explanations for each solution.
+- Include explanations for each solution in a separate documentation file.
